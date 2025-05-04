@@ -1,0 +1,11 @@
+{
+    "firstname": "Irma",
+    "lastname": "Tria",
+    "totalprice": 650000,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-05-01",
+      "checkout": "2024-05-10"
+    },
+    "additionalneeds": "Lunch "
+  }
